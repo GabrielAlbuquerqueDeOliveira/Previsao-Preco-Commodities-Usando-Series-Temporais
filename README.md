@@ -55,7 +55,7 @@ Execute o notebook: Você pode abrir o notebook diretamente no Jupyter ou no Goo
 
 Abrir no Colab
 
-📊 Exemplos de Visualizações
+## 📊 Exemplos de Visualizações
 Alguns gráficos presentes na análise:
 
 Série temporal dos preços históricos do café
@@ -70,7 +70,7 @@ Comparação entre previsões e valores reais
 
 (Confira todos os gráficos no notebook.)
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 Python 3.10+
 
 Pandas
@@ -87,20 +87,19 @@ OpenPyXL
 
 Jupyter Notebook / Google Colab
 
-👤 Autoria
-Desenvolvido por Gabriel Albuquerque
+## 👤 Autoria
 
-💻 GitHub
-
-💼 LinkedIn
-
+Desenvolvido por **Gabriel Albuquerque de Oliveira**  
+🔗 [GitHub](https://github.com/GabrielAlbuquerqueDeOliveira)  
 📧 gabriel.ooo@hotmail.com
+💼 [LinkedIn](www.linkedin.com/in/gabriel-albuquerque-oliveira98)
 
-📄 Licença
+## 📄 Licença
 Este projeto está licenciado sob os termos da Licença MIT.
 
 MIT License
 
+```
 Copyright (c) 2025 Gabriel Albuquerque
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -111,7 +110,7 @@ copies of the Software, and to permit persons to whom the Software is
 furnished to do so, subject to the following conditions:
 
 [...licença completa no arquivo LICENSE...]
-
-🤝 Contribuições
+```
+## 🤝 Contribuições
 Contribuições são bem-vindas!
 Sinta-se à vontade para abrir issues ou pull requests com sugestões e melhorias.
