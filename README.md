@@ -42,7 +42,7 @@ O dataset inclui preços diários do café em 2023 e dados de exportação para 
 
 Clone este repositório:
 
-```bash
+``bash
 git clone https://github.com/seu_usuario/seu_repositorio.git
 cd seu_repositorio
 Instale as dependências (recomenda-se usar um ambiente virtual):
