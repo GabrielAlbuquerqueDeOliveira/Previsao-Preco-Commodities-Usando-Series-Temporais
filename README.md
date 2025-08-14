@@ -8,10 +8,9 @@ Este projeto realiza a previsão dos preços do café no Brasil utilizando o mod
 
 | Caminho | Descrição |
 |---------|-----------|
-| [`notebooks/previsao_cafe.ipynb` ](https://github.com/GabrielAlbuquerqueDeOliveira/Time-Series-Analysis/blob/main/S%C3%A9ries_Temporais_preco_cafe.ipynb) | Notebook principal com a análise e previsão dos preços do café |
-| `[data/` ](https://github.com/GabrielAlbuquerqueDeOliveira/Time-Series-Analysis/blob/main/cepea-consulta-modificadaxls.xlsx) | Pasta contendo os dados brutos e tratados do CEPEA/ESALQ |
-| `LICENSE` | Licença de uso do projeto |
-| `requirements.txt` | Arquivo com as dependências do projeto |
+| [`Previsao_cafe.ipynb` ](https://github.com/GabrielAlbuquerqueDeOliveira/Time-Series-Analysis/blob/main/S%C3%A9ries_Temporais_preco_cafe.ipynb) | Notebook principal com a análise e previsão dos preços do café |
+| [`data` ](https://github.com/GabrielAlbuquerqueDeOliveira/Time-Series-Analysis/blob/main/cepea-consulta-modificadaxls.xlsx) | Pasta contendo dados do CEPEA/ESALQ preço do café 2023 |
+| [`data` ](https://github.com/GabrielAlbuquerqueDeOliveira/Time-Series-Analysis/blob/main/Preco_cafe_2024_observado.xlsx) | Pasta contendo os dados do CEPEA/ESALQ preço do café 2024 |
 
 ---
 
