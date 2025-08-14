@@ -39,20 +39,26 @@ O dataset inclui preços diários do café em 2023 e dados de exportação para 
 
 ## ▶️ Como Executar
 
-Clone este repositório:
+1.Clone este repositório:
 
-``bash
+```bash
 git clone https://github.com/seu_usuario/seu_repositorio.git
-cd seu_repositorio
-Instale as dependências (recomenda-se usar um ambiente virtual):
 
-bash
+cd seu_repositorio
+```
+
+2.Instale as dependências (recomenda-se usar um ambiente virtual):
+
+```bash
 Copiar
 Editar
 pip install -r requirements.txt
-Execute o notebook: Você pode abrir o notebook diretamente no Jupyter ou no Google Colab:
+```
 
-Abrir no Colab
+3. Execute o notebook:
+Você pode abrir o notebook diretamente no Jupyter.
+
+---
 
 ## 📊 Exemplos de Visualizações
 Alguns gráficos presentes na análise:
@@ -70,21 +76,15 @@ Comparação entre previsões e valores reais
 (Confira todos os gráficos no notebook.)
 
 ## 🛠️ Tecnologias Utilizadas
-Python 3.10+
 
-Pandas
-
-NumPy
-
-Matplotlib
-
-Statsmodels
-
-Scikit-Learn
-
-OpenPyXL
-
-Jupyter Notebook / Google Colab
+- Python 3.10+
+- Pandas
+- NumPy
+- Matplotlib
+- Statsmodels
+- Scikit-Learn
+- OpenPyXL
+- Jupyter Notebook
 
 ## 👤 Autoria
 
@@ -93,12 +93,15 @@ Desenvolvido por **Gabriel Albuquerque de Oliveira**
 📧 gabriel.ooo@hotmail.com
 💼 [LinkedIn](www.linkedin.com/in/gabriel-albuquerque-oliveira98)
 
+---
+
 ## 📄 Licença
 Este projeto está licenciado sob os termos da Licença MIT.
 
+```
 MIT License
 
-```
+
 Copyright (c) 2025 Gabriel Albuquerque
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -110,6 +113,9 @@ furnished to do so, subject to the following conditions:
 
 [...licença completa no arquivo LICENSE...]
 ```
+
+---
+
 ## 🤝 Contribuições
 Contribuições são bem-vindas!
 
