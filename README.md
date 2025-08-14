@@ -113,4 +113,5 @@ furnished to do so, subject to the following conditions:
 ```
 ## 🤝 Contribuições
 Contribuições são bem-vindas!
+
 Sinta-se à vontade para abrir issues ou pull requests com sugestões e melhorias.
